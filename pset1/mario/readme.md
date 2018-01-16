@@ -5,7 +5,7 @@ Implement a program that prints out a double half-pyramid of a specified height,
 $ ./mario
 Height: 4
 
-   \#  \# <\br>
+   \#  \# <br />
   \#\#  \#\#
  ###  ###
 ####  ####
